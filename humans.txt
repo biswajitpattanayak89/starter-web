@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <Jit> -- <Developer> -- <twitter>
+    <Biswajit> -- <ETL Specialist> -- <twitter>
 
 # THANKS
 
-    <name>
+    <Biswajit>
 
 # TECHNOLOGY COLOPHON
 
