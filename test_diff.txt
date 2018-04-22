@@ -1,0 +1,1 @@
+test diff tool to identify the difference bretween a local and staged copy
