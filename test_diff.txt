@@ -1,1 +1,3 @@
 test diff tool to identify the difference bretween a local and staged copy
+
+re enter for soe staging
